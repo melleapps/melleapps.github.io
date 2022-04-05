@@ -1,0 +1,23 @@
+We (Melle Apps) respect your privacy and are committed to protecting your privacy by clearly communicating what information we collect and how we use it, and giving you options to manage our use of your personal information.
+
+1.App Permissions
+
+	•Device Administrator
+Required to format your phone.
+	•Reboot
+Required to restart your phone.
+	•Internet
+We ask for this permission to show admob ads.
+
+2.Ads
+Yodo1 Ads are used in this application. Ads are shown according to your interests. There are personalized ads.
+
+
+5.Other Data
+Crash data is viewed without your personal information. We use them to make our app better.
+
+This app targets 18 years and older. Not eligible for the Children and Families Programme.
+
+
+
+If you have privacy concerns, you can contact us. You can send an e-mail from the contact tab in the applications or from here. melle.apps@yandex.com
