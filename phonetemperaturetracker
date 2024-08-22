@@ -1,0 +1,37 @@
+Privacy Policy
+
+Last updated: [22.08.2024]
+
+Melle Apps ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Phone Temperature Monitoring App. Please read this policy carefully. If you do not agree with the terms of this privacy policy, please do not use the application.
+
+1. Information We Collect
+We do not collect, use, store, or share any personal information while you visit, download, or upgrade our application.
+
+2. Permissions
+Our app requires the following permissions:
+
+Foreground Service Permission: To enable continuous monitoring of phone and CPU temperatures in the background.
+Post Notifications Permission: To send notifications to users when the temperature exceeds the set threshold.
+These permissions are essential for the core functionality of the app, and no personal data is collected or stored through these permissions.
+
+3. Third-Party Libraries
+Our application uses the following third-party libraries, which may collect information used to identify you:
+
+Room (androidx.room
+): A database library used to store temperature data and statistics locally on your device.
+MPAndroidChart (com.github.PhilJay:MPAndroidChart
+.1.0): A charting library used to display temperature trends and graphs within the app.
+Lottie (com.airbnb.android:lottie:6.0.0): A library used for animations within the app’s user interface.
+These libraries are critical to providing the app’s features but do not collect or share personal data beyond what is necessary for their function.
+
+4. Data Security
+We strive to use commercially acceptable means to protect your information. However, please remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+5. Children's Privacy
+Our services are not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our servers immediately.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at melle.apps@yandex.com.
