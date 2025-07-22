@@ -1,0 +1,83 @@
+PRIVACY POLICY  
+Last updated: 22 July 2025
+
+Melle Apps (“we”, “our”, “us”) is committed to protecting your privacy.  
+This document explains how information is handled when you use ClipBoard Easy (the “App”).  
+By installing or using the App you agree to the terms below. If you do not agree, please do not use the App.
+
+--------------------------------------------------------------------
+1. INFORMATION WE COLLECT
+• We do not collect, store, or share any personally‑identifiable information (PII).  
+• All clipboard data, notes, and any files you open stay on your device; their contents are never uploaded.  
+• Crash logs and analytics are disabled.
+
+--------------------------------------------------------------------
+2. PERMISSIONS AND PURPOSE
+
+INTERNET  
+  – Loads Google AdMob ads.  
+  – Opens outbound affiliate links in your browser when tapped.  
+  – No clipboard or personal data leaves your device.
+
+READ_EXTERNAL_STORAGE / WRITE_EXTERNAL_STORAGE  
+  – Lets you browse, import, back‑up, and restore local text/PDF files.  
+  – Nothing is copied off‑device.  
+  – Requested in “legacy” mode only to remain compatible with Android 6–10 devices.
+
+The App never accesses the system clipboard in the background; it reacts only when you actively paste or save a note.
+
+--------------------------------------------------------------------
+3. THIRD‑PARTY SDKS
+
+Google AdMob  
+  • Displays banner and interstitial ads that keep the App free.  
+  • May use the device’s advertising ID for ad personalisation (subject to your consent).  
+  • Policy: https://policies.google.com/privacy
+
+User Messaging Platform (UMP)  
+  • Shows the GDPR/CCPA consent form required by AdMob.  
+  • Stores your ad‑consent choice in local shared preferences.  
+  • Docs: https://developers.google.com/admob/ump/android/quick-start
+
+Firebase Realtime Database (offline‑only mode)  
+  • Stores non‑personal app settings locally; cloud sync is disabled.  
+  • Policy: https://firebase.google.com/support/privacy
+
+We do not control any data collected by these providers.  
+Please refer to their respective privacy policies for details.
+
+--------------------------------------------------------------------
+4. AFFILIATE LINKS
+
+The App may display optional affiliate links (managed via a small Firebase configuration).  
+• Links are not always active — they appear only during campaign periods.  
+• If you tap one, you leave the App and the retailer (e.g., Amazon) may place its own cookies or tracking tags under its own privacy policy.  
+• We receive a commission on qualifying purchases; no personal data about you is shared with us.
+
+--------------------------------------------------------------------
+5. CHILDREN’S PRIVACY
+
+The App is not directed to children under 13.  
+We do not knowingly collect data from children.  
+If a parent or guardian believes that a child has provided personal information, please contact us and we will delete it promptly.
+
+--------------------------------------------------------------------
+6. DATA SECURITY
+
+All data processed by the App remains on your device.  
+While we use commercially acceptable safeguards, no method of electronic storage is 100 % secure.
+
+--------------------------------------------------------------------
+7. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time.  
+Changes are effective immediately upon posting in this document.  
+Continued use of the App after changes constitutes acceptance of the revised policy.
+
+--------------------------------------------------------------------
+8. CONTACT US
+
+Questions or suggestions?  
+Email: melle.apps@yandex.com
+
+— ClipBoard Easy – copy faster, paste smarter — without sacrificing your privacy —
