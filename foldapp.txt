@@ -1,0 +1,65 @@
+rivacyPolicyEn As String =
+<text>PRIVACY POLICY — FOLDMETER (ANDROID)
+Last updated: 25 Aug 2025
+Developer: Melle Apps
+Contact: melle.apps@yandex.com
+
+ABOUT THE APP
+• FoldMeter is a minimal fold counter for foldable phones.
+• It detects only two states using the hinge-angle sensor: Open and Closed.
+• It increments the counter on full open↔close (or close↔open) transitions.
+
+SUMMARY (TL;DR)
+• We do not collect personal information from you.
+• Fold counts and settings are stored locally on your device (Room database).
+• Ads are served via Google Mobile Ads (AdMob); consent in EEA/UK is managed with the User Messaging Platform (UMP).
+
+DATA WE PROCESS
+• On-device (by the app): fold counts (today/total), Open/Closed transitions, basic settings (monitoring on/off, notifications). Stored locally; not sent to our servers.
+• Advertising & consent (by third-party SDKs): AdMob may process device/ads identifiers (including AD_ID), IP-derived approximate location, ad interactions, and diagnostics for delivery, measurement, and fraud prevention. UMP stores your consent choices where required.
+• We do not collect names, emails, contacts, messages, photos, precise location, or other sensitive categories.
+
+PERMISSIONS & WHY
+• FOREGROUND_SERVICE / FOREGROUND_SERVICE_DATA_SYNC — run a reliable foreground service for counting.
+• POST_NOTIFICATIONS (Android 13+) — show the persistent counting/status notification.
+• WAKE_LOCK (optional) — prevent brief sleep during critical transitions on some devices.
+• INTERNET — load ads and read remote configuration/content.
+• com.google.android.gms.permission.AD_ID — allow AdMob to use the advertising ID where available.
+
+ADS, CONSENT, AND YOUR CHOICES
+• Consent (EEA/UK): managed via UMP; you can revisit your choices in-app (Settings) or by clearing app data.
+• Personalized vs non-personalized ads: served according to your consent and OS settings.
+• OS-level controls: reset/limit the Advertising ID and disable ad personalization in system settings.
+• Children: the app is not intended for users under 13.
+
+DATA SECURITY
+• We minimize processing and keep counts on device.
+• No method is 100% secure, but we apply reasonable technical and organizational measures.
+
+RETENTION & DELETION
+• On-device counts and settings remain until you delete them.
+• You can delete data via: Reset Today (daily only), clearing app data, or uninstalling the app.
+• Consent/ad data retention is handled by the respective providers.
+
+THIRD-PARTY SDKS WE USE (PURPOSE ONLY)
+• Google Mobile Ads (AdMob) — ads delivery/measurement/fraud prevention
+• User Messaging Platform (UMP) — consent collection and storage
+• Firebase Realtime Database — read-only remote configuration/content
+• AndroidX Room — local database
+• MPAndroidChart — simple in-app visuals
+• AndroidX Lifecycle, Coroutines, Material, AppCompat, ConstraintLayout — app components
+
+INTERNATIONAL PROCESSING
+• Third-party partners may process data on servers outside your country, with appropriate safeguards where required.
+
+CHILDREN’S PRIVACY
+• We do not knowingly collect data from children under 13.
+
+CHANGES TO THIS POLICY
+• We may update this policy from time to time; the “Last updated” date reflects the latest version.
+
+CONTACT
+• Email: melle.apps@yandex.com
+</text>.Value
+
+End Module
