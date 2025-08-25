@@ -1,0 +1,58 @@
+Bluetooth Battery Levels – Privacy Policy
+Last updated: 2025-08-25
+Contact: melle.apps@yandex.com
+
+• OVERVIEW
+  - Bluetooth Battery Levels is an Android application that displays the battery percentage of your Bluetooth headphones and earbuds.
+  - The app works locally on your device.
+  - We do not collect, store, share, or sell any personal information.
+
+• DATA COLLECTED
+  - Personal Data: None
+  - Sensitive Data: None
+  - Location Data: None
+  - Device or Advertising IDs (AAID/AD_ID): Not collected or used
+  - Note: Although the app includes permissions for advertising IDs (due to Google Play Services), this data is not accessed or transmitted.
+
+• ON-DEVICE PROCESSING ONLY
+  - To display battery percentage and connection state, the app reads:
+    • Bluetooth device name
+    • Connection status (connected / disconnected)
+    • Battery level percentage (when exposed by the device)
+  - This information is processed locally and is never sent to external servers.
+  - No account, login, or user profile is required.
+
+• PERMISSIONS USED AND PURPOSE
+  - BLUETOOTH_CONNECT (Android 12+)
+    • Required to read Bluetooth device state and battery percentage.
+  - BLUETOOTH_SCAN with "neverForLocation" flag (Android 12+)
+    • Required to scan and list available Bluetooth headphones or earbuds.
+    • This does not access location data.
+  - BLUETOOTH / BLUETOOTH_ADMIN
+    • Backward compatibility with older Android versions.
+  - POST_NOTIFICATIONS (Android 13+)
+    • Required to show a persistent notification with the headphone battery percentage.
+    • Always requires user consent.
+  - FOREGROUND_SERVICE / FOREGROUND_SERVICE_CONNECTED_DEVICE (Android 14+)
+    • Required to keep a background service running for connected device monitoring.
+  - INTERNET
+    • Basic network permission. The app does not upload user data.
+  - com.google.android.gms.permission.AD_ID
+    • Required by Google Play Services framework, but the app does not use or transmit this ID.
+
+• THIRD-PARTY LIBRARIES
+  - The app uses standard AndroidX, Material, and Firebase Database dependencies.
+  - Firebase Database is included but not actively used to transmit personal information in this version.
+  - No advertising SDKs are integrated.
+  - No analytics SDKs are integrated.
+
+• DATA SHARING
+  - No data is shared with third parties.
+  - No external servers receive data from the app.
+
+• CHILDREN’S PRIVACY
+  - The app does not collect any personal data.
+  - Safe for all ages.
+
+• CONTACT
+  - If you have questions or concerns about this policy, please contact the developer via the email address provided on the Google Play listing.
