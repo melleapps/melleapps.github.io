@@ -1,0 +1,76 @@
+# Privacy Policy for Baby Kick Counter
+
+**Effective Date:** September 27, 2025
+
+Thank you for choosing Baby Kick Counter, developed by **Melle Tool Apps**. Your privacy is critically important to us. This Privacy Policy outlines how your information is collected, used, and managed when you use our mobile application ("App").
+
+Please read this policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+
+---
+
+## 1. Information We Collect
+
+Our App is designed with your privacy at its core. We collect two types of information:
+
+### A. Information You Provide to Us (Locally Stored Data)
+
+This is the data you generate by using the App's core features. This includes:
+* Session date and time.
+* Total duration of a kick counting session.
+* Total number of kicks in a session.
+* The specific timestamp for each individual kick.
+
+**Crucially, all of this session data is stored exclusively and securely on your device's local storage. We, Melle Tool Apps, do not have access to this data, and it is never uploaded to our servers or any third-party servers under our control.** You have full control over this data and can delete it at any time by clearing the App's data or uninstalling the App.
+
+### B. Information Collected Automatically by Third-Party Services
+
+To support and improve our App, we use third-party services that may collect information automatically.
+
+* **Google AdMob & User Messaging Platform (UMP):** Our App is supported by ads from Google AdMob. To display relevant ads and comply with data privacy regulations like GDPR, Google may collect certain data, including:
+    * Device identifiers (such as the Advertising ID).
+    * IP address (for coarse location and ad delivery).
+    * Device information (e.g., device model, operating system version).
+    * Ad interaction data.
+
+    We use Google's User Messaging Platform (UMP) SDK to request your consent for data collection for personalized advertising in applicable regions. You can manage your consent choices at any time through the App's settings if applicable. For more details, please review [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
+
+* **Firebase:** Our application may include the Firebase SDK for potential future features. Firebase may collect certain anonymous usage data and identifiers for analytics and performance monitoring. For more information, please see the [Firebase Privacy Policy](https://firebase.google.com/support/privacy).
+
+---
+
+## 2. How We Use Your Information
+
+The information is used for the following purposes:
+
+* **To Provide Core Functionality:** Your locally stored session data is used to display your kick counting history and statistics within the App.
+* **To Support the App with Ads:** Data collected by AdMob is used to serve personalized and non-personalized advertisements, which helps keep the App free.
+* **To Send Notifications:** If you enable daily reminders, we use your device's notification permission (`POST_NOTIFICATIONS`) and the WorkManager API to schedule **local notifications**. These notifications are managed entirely on your device and do not involve sending your data to our servers.
+
+---
+
+## 3. Data Sharing and Disclosure
+
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. The session data you create is not shared by us with anyone.
+
+However, our third-party partners (Google AdMob, Firebase) operate under their own privacy policies. We recommend you review their policies to understand how they handle your data.
+
+---
+
+## 4. Children's Privacy
+
+Our App is not intended for use by anyone under the age of 18. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information.
+
+---
+
+## 5. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+---
+
+## 6. Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+**Developer:** Melle Tool Apps
+**Email:** melle.apps@yandex.com
