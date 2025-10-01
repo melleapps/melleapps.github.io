@@ -1,0 +1,60 @@
+================================
+Baby Listener - Privacy Policy
+================================
+
+Last Updated: October 1, 2025
+
+This Privacy Policy explains how Melle Tool Apps ("we," "us," or "our") handles information in connection with the "Baby Listener" mobile application (the "App").
+
+Your privacy is of the utmost importance to us. Baby Listener is designed from the ground up to respect your privacy. Our policy is clear: we do not collect, store, or share any of your personal data through the App.
+
+**Developer and Contact Information**
+------------------------------------
+If you have any questions or concerns about this Privacy Policy, please do not hesitate to contact the Melle Tool Apps team via the email address below:
+
+- **Developer:** Melle Tool Apps
+- **Contact Email:** melle.apps@yandex.com
+
+**Data Processing and Security**
+--------------------------------
+Baby Listener works by establishing a direct connection between two of your devices. All audio streaming occurs exclusively over your local Wi-Fi network. This data does not pass through our servers or any third-party servers. This architecture ensures that the privacy of your home and child is fully protected.
+
+**Permissions We Request and Why**
+----------------------------------
+For the App to function correctly with all its features, it requires certain permissions. As Melle Tool Apps, we believe in full transparency and have detailed the purpose of each permission below:
+
+1.  **INTERNET and ACCESS_NETWORK_STATE:**
+    * **Purpose:** This is essential for the App's core functionality, which allows two devices to communicate with each other over the same Wi-Fi network. This permission is used strictly for local network communication, not for collecting data over the internet.
+
+2.  **RECORD_AUDIO (Microphone):**
+    * **Purpose:** This permission is necessary for the device in "Transmitter" mode to listen to the audio in your baby's room and stream it to the "Receiver" device. The audio data is streamed live and is never recorded, stored, or sent to us.
+
+3.  **CAMERA:**
+    * **Purpose:** This permission is requested only on the "Receiver" device to provide the convenience of scanning a QR code from the "Transmitter" device's screen. This allows for a fast and error-free connection. The camera is not used for any other purpose; it does not record videos or store photos.
+
+4.  **FOREGROUND_SERVICE and FOREGROUND_SERVICE_MICROPHONE:**
+    * **Purpose:** The most critical feature of a baby monitor is its reliability. These permissions allow the App to continue running seamlessly in the background, even when your screen is off or you are using another application. This prevents the Android operating system from stopping the service, ensuring a stable and uninterrupted connection.
+
+5.  **POST_NOTIFICATIONS (For Android 13 and newer):**
+    * **Purpose:** When an app runs as a foreground service, the Android system requires that a persistent notification is displayed in the status bar. This notification informs you that the App is active and provides a convenient way to stop the service with a single tap.
+
+6.  **VIBRATE:**
+    * **Purpose:** This permission is used to provide simple haptic feedback (a short vibration) when you press and hold the "Speak" button on the receiver device, confirming that your touch has been registered.
+
+7.  **REQUEST_IGNORE_BATTERY_OPTIMIZATIONS:**
+    * **Purpose:** Modern Android versions have aggressive battery management systems that can terminate apps running for long periods in the background. For a baby monitor, this is unacceptable. We may request this permission to ensure the App is not automatically closed, guaranteeing its reliability.
+
+**Third-Party Services**
+------------------------
+The App uses the Google AdMob service to display advertisements, which helps cover development costs. AdMob may collect data to serve personalized ads. For more information on how Google handles data, please review Google's Privacy & Terms.
+
+Additionally, Firebase is used to remotely manage ad settings. This service does not collect any personal user data from the App.
+
+**Changes to This Privacy Policy**
+----------------------------------
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in this file. You are advised to review this Privacy Policy periodically for any changes.
+
+By using the Baby Listener application, you agree to the terms outlined in this Privacy Policy.
+
+Sincerely,
+**The Melle Tool Apps Team**
