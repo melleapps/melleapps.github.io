@@ -1,23 +1,119 @@
-We (Melle Apps) respect your privacy and are committed to protecting your privacy by clearly communicating what information we collect and how we use it, and giving you options to manage our use of your personal information.
+# Privacy Policy
 
-1.App Permissions
+**Last Updated:** October 2025  
+**Developer:** Melle Tool Apps  
+**App Name:** Factory Reset Tools
 
-	•Device Administrator
-Required to format your phone.
-	•Reboot
-Required to restart your phone.
-	•Internet
-We ask for this permission to show admob ads.
+---
 
-2.Ads
-Yodo1 Ads are used in this application. Ads are shown according to your interests. There are personalized ads.
+## 1. Overview
 
+We (**Melle Apps**) value your privacy and are committed to transparency about how we handle your information.  
+This policy explains what data our app collects, how it is used, and your options for control.  
 
-5.Other Data
-Crash data is viewed without your personal information. We use them to make our app better.
+This app is intended for users **aged 18 and older** and is **not eligible for the Children and Families Program** on Google Play.
 
-This app targets 18 years and older. Not eligible for the Children and Families Programme.
+---
 
+## 2. Permissions Used
 
+| Permission | Purpose |
+|-------------|----------|
+| **Device Administrator** | Required to perform a secure factory reset and manage device lock functions. |
+| **Internet Access** | Required for displaying ads and retrieving remote configuration data via Firebase. |
 
-If you have privacy concerns, you can contact us. You can send an e-mail from the contact tab in the applications or from here. melle.apps@yandex.com
+These permissions are **only used for their stated purpose** and are never used to collect personal data.
+
+---
+
+## 3. Data We Collect
+
+The app itself **does not collect or store any personally identifiable information (PII)** such as name, email, or contact data.  
+However, we use third-party services that may collect limited **non-personal data** automatically for analytics and advertising:
+
+- **Advertising ID (AAID)** – Used by AdMob for ad delivery and frequency capping.  
+- **Crash and performance data** – Used to improve app stability.  
+- **Anonymous device and usage information** – For basic functionality and user experience optimization.
+
+---
+
+## 4. Advertising (AdMob)
+
+We use **Google AdMob** to serve ads within the application.
+
+- Ads may be **personalized** based on your interests.  
+- If you are in a region governed by GDPR or CCPA, you will see a **consent form** provided by **Google User Messaging Platform (UMP)** before personalized ads are shown.  
+- You can change your ad preferences or opt out of personalization at any time from your device settings.
+
+For more information, please review the [Google AdMob Privacy Policy](https://policies.google.com/privacy).
+
+---
+
+## 5. Firebase Realtime Database
+
+The app connects to **Firebase Realtime Database** for:
+- Retrieving remote configuration values (e.g., ad unit IDs, feature flags, promotional content)
+- Managing app behavior and performance updates remotely
+
+We do **not** store or transmit any personally identifiable data to Firebase.
+
+For more information, see [Firebase Privacy & Security](https://firebase.google.com/support/privacy).
+
+---
+
+## 6. Local Storage (SharedPreferences)
+
+We use Android’s **SharedPreferences** for storing app-related preferences such as:
+- Dark/Light theme mode  
+- Auto-lock timer  
+- Ad display intervals  
+- User settings  
+
+This information is **stored locally on your device** and is never uploaded or shared with any external service.
+
+---
+
+## 7. Crash and Error Data
+
+Anonymous crash data may be collected automatically by Google Play or integrated SDKs.  
+This data helps us detect and fix technical issues.  
+No personal or sensitive data is ever included in crash reports.
+
+---
+
+## 8. Data Security
+
+We prioritize user privacy and data protection.  
+- We **do not sell, trade, or rent** any data.  
+- All third-party services (AdMob, Firebase) are compliant with **Google’s security and privacy standards**.  
+- Network communication uses secure HTTPS protocols.
+
+---
+
+## 9. User Control & Rights
+
+You can manage your privacy choices at any time:
+- Revoke app permissions via **Device Settings → Apps → Factory Reset Tools → Permissions**.  
+- Opt out of personalized ads via **Device Settings → Google → Ads → Opt out of Ads Personalization**.  
+- Request deletion of advertising identifiers directly through your device settings.
+
+---
+
+## 10. Contact Information
+
+If you have questions, concerns, or requests regarding this Privacy Policy, contact us at:
+
+📧 **melle.apps@yandex.com**
+
+---
+
+## 11. Policy Updates
+
+We may update this Privacy Policy from time to time to reflect changes in app functionality or SDK integrations.  
+Any significant updates will be announced in the app release notes or on our GitHub repository.
+
+---
+
+### External References
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Firebase Privacy & Security](https://firebase.google.com/support/privacy)
