@@ -1,0 +1,31 @@
+Privacy Policy for Timeline App
+Effective Date: October 20, 2025
+
+This Privacy Policy describes how your personal information is handled in the Timeline application (the "App").
+
+1. Information We Collect
+We want to be clear and transparent: The Timeline app does not collect, store, or transmit any personally identifiable information from its users.
+
+The application is designed to work completely offline. All historical data displayed within the app is included in the application package and is not retrieved from a remote server. We do not use any analytics, trackers, or advertising services.
+
+2. How We Use Your Information
+Since we do not collect any information, your data is not used for any purpose. All functionalities, such as searching for events or filtering by country and year, are processed locally on your device.
+
+3. Information Sharing and Disclosure
+We do not have any of your personal information to share. The app does not share any data with the developer or any third parties.
+
+The app includes a "Share" feature that allows you to voluntarily share the text of a historical event using the native sharing capabilities of your Android device. This action is initiated by you, and we do not track what you share or with whom you share it.
+
+4. Permissions
+The Timeline app does not request any special permissions. It does not need access to your contacts, location, camera, storage, or any other sensitive information on your device.
+
+5. Children's Privacy
+The application does not knowingly collect any personal information from children. Since the app does not collect any data at all, it is safe for use by people of all ages.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+melle.apps@yandex.com
